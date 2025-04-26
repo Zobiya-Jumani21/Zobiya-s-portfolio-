@@ -1,2 +1,2 @@
 # Zobiya-s-portfolio-
-I made portfolio of myself using framework "Bootstraps" and js, css, and also php to save data in the database. for my Web Engineering subject.
+As part of my Web Engineering subject, I developed a personal portfolio using the Bootstrap framework, JavaScript, CSS, and PHP to store user data in a database.
